@@ -1,0 +1,3 @@
+[submodule "plugin/assets/addtocalendar"]
+	path = plugin/assets/addtocalendar
+	url = git@github.com:WebuddhaInc/add-to-calendar-buttons.git
